@@ -27,6 +27,10 @@ export default {
         {
           name: 'Info',
           herf: '/info'
+        },
+        {
+          name: 'Review',
+          herf: '/review'
         }
       ]
     }
